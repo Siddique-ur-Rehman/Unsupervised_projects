@@ -1,4 +1,4 @@
-Customer Segmentation Analysis
+**Customer Segmentation Analysis:
 Project Overview
 This project leverages unsupervised machine learning (K-Means and Hierarchical Clustering) to segment customers based on their purchasing behavior and demographic data. The goal is to enable data-driven marketing strategies by identifying distinct customer groups.
 
